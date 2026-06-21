@@ -55,4 +55,4 @@ description: Use when the user requests model switching between fast (flash) and
 
 ## 配置文件位置
 
-`/vol1/@apphome/trim.openclaw/data/home/.openclaw/openclaw.json`
+`~/.openclaw/openclaw.json`
