@@ -1,7 +1,22 @@
 ---
 name: model-switcher
-description: Use when the user requests model switching between fast (flash) and deep (pro) reasoning modes, or wants to configure default models for different task types.
+description: "Switch between fast and deep models (OpenClaw legacy - use Hermes provider config instead)"
+version: 1.0.0
+author: lzylipu
+license: MIT
+platforms: [linux]
+status: legacy
+note: "Designed for OpenClaw. Hermes Agent uses provider/profile config for model switching"
+metadata:
+  hermes:
+    tags: [model, switch, deepseek, flash, pro, 模型, 切换]
+    related_skills: []
+    homepage: https://github.com/lzylipu/openclaw-skill-model-switcher
+    category: personal
+    skill_type: config
 ---
+
+> **Note**: This skill was designed for OpenClaw. Hermes Agent uses `hermes config set` or the Web UI provider settings for model switching.
 
 # Model Switcher / 模型切换器
 
