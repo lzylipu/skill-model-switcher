@@ -11,7 +11,7 @@ metadata:
   hermes:
     tags: [model, switch, deepseek, flash, pro, 模型, 切换]
     related_skills: []
-    homepage: https://github.com/lzylipu/openclaw-skill-model-switcher
+    homepage: https://github.com/lzylipu/skill-model-switcher
     category: personal
     skill_type: config
 ---
